@@ -9,6 +9,10 @@ body{
   width: 99%;
 }
 
+.topnavText{
+  font-family: Tahoma, sans-serif;
+}
+
 .topnav a {
   float: left;
   color: #f2f2f2;
